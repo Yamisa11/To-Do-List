@@ -59,11 +59,15 @@ body{
 }
 #Tasks .delete{
     float: right;
-    background-color: rgb(218, 77, 77);
+ 
     color: white;
     border-color: white;
     cursor: pointer;
 }
 .Tasks #TaskName{
     margin-top: 15px;
+}
+img{
+    width: 20px;
+    height: 20px;
 }
